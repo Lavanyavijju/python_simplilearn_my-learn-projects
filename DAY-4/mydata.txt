@@ -1,0 +1,9 @@
+101,Meganadh,4000
+102,Rajesh,5000
+103,Kiran,6000
+104,Bharath,4500
+105,Shankar,3500106,Ramesh,4000
+107,Ramana,5000
+108,Vijay,7000
+109,Triloksha,9000
+110,Pravigna,10000

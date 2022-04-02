@@ -1,0 +1,4 @@
+pavani,50
+vijay,80
+triloksha,90
+pravigna,70
